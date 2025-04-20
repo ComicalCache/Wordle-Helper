@@ -1,0 +1,8 @@
+[package]
+name = "wordle-helper"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rfd = "0.15.3"
+eframe = "0.31.1"
